@@ -59,7 +59,8 @@ Server/
 3. Run the frontend:
   
    npm run dev
-  
+
+4. Open the app in your browser at `http://localhost:5173`.
 
    ### Backend (Node.js with Express)
 
@@ -83,3 +84,6 @@ Server/
      ## Features Implemented
 
 - **Scalable Architecture**: The architecture is modular and can be easily extended with new features, such as email notifications or advanced user permissions.
+
+
+  
