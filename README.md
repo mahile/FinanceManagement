@@ -1,3 +1,8 @@
+
+https://github.com/user-attachments/assets/af4751c8-a907-493a-a4b4-40f653178030
+
+
+
 # My React & Node Project
 
 This is a full-stack project built with React (with Chakra UI) for the frontend and Node.js (with Express) for the backend.
