@@ -85,5 +85,21 @@ Server/
 
 - **Scalable Architecture**: The architecture is modular and can be easily extended with new features, such as email notifications or advanced user permissions.
 
+   ## Technology Stack
+  
+  ### Frontend:
+  
+  Framework: React (with Vite for faster builds)
+  
+  Styling: Chakra UI
+  
+  Language: TypeScript
 
+  ### Backend:
+
+  Framework: Node.js with Express
+  
+  Database:MangoDB
+  
+  Authentication: JWT-based token system
   
