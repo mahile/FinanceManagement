@@ -80,4 +80,6 @@ Server/
 
 4. The backend will be running on `http://localhost:3000` .
 
-     
+     ## Features Implemented
+
+- **Scalable Architecture**: The architecture is modular and can be easily extended with new features, such as email notifications or advanced user permissions.
