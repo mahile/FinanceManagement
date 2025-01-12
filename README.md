@@ -13,7 +13,7 @@ This is a full-stack project built with React (with Chakra UI) for the frontend 
 
 ### Frontend (React with Chakra UI)
 
-react-ts/
+vite-project/
 ├── assets/                # Contains static files such as images, fonts, etc.
 
 ├── components/            # React components for different parts of the UI
